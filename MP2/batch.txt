@@ -1,0 +1,27 @@
+SET cash money
+SET pool_color blue
+GET money
+GET cash
+SET browser chrome
+SET wallpaper purple
+SET text_editor sublime
+GET browser
+GET pool_color
+SET terminal black
+SET dinner chicken
+GET terminal
+LIST_LOCAL
+GET dinner
+GET text_editor
+GET wallpaper
+GET wallpaper
+GET wallpaper
+GET cash
+GET cash
+GET cash
+GET cash
+OWNERS cash
+OWNERS pool_color
+OWNERS money
+OWNERS wallpaper
+LIST_LOCAL
